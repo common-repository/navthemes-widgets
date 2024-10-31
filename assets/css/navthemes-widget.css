@@ -1,0 +1,368 @@
+/*
+    
+    NavThemes Widgets
+    @version 1.0 
+
+*/
+
+.nt-about-widget .float-left{
+  float: left;
+}
+
+.nt-about-widget .float-right{
+  float: right;
+}
+
+.nt-about-widget .symbol{
+  width: 20%;
+}
+
+.nt-about-widget .content {
+  width: 70%;
+}
+
+.nt-about-widget .clearboth{
+  clear: both;
+}
+
+/* Style 1 */
+.nt-about-widget .style1 .symbol {
+  margin-right: 5%;
+}
+
+/* Style 2 */
+.nt-about-widget .style2 .content {
+  margin-right: 5%;
+}
+
+
+/* Navthemes Pricing widget Starts */
+
+.nt-plan-widget{
+  width:100%;
+  box-sizing: border-box;
+}
+
+.nt-plan-widget .nt-col,.nt-service-widget .nt-col,.nt-team-widget .nt-col{
+  width: 33.33%;
+  float: left;
+  padding: 0 20px 0 20px; 
+  box-sizing: border-box;
+}
+
+.nt-plan-widget .nt-box-header{
+  widows: 100%;
+  background-color:#6871f4; 
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.nt-plan-widget .pt_40{
+    padding-top: 40px;
+}
+
+.nt-plan-widget .pb_40{
+    padding-bottom: 20px !important;
+}
+
+.nt-plan-widget .pt_2{
+    padding: 2px 0 0 0;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.nt-plan-widget .nt-box-header p{
+    font-size: 18px;
+    color: #fff;
+    letter-spacing: 2px;
+}
+.nt-plan-widget .nt-box-header .nt-header-field2 span{
+  padding: 0 5px 0 5px;
+}
+
+.nt-plan-widget .nt-box-body .nt-body-heading{
+    font-size: 23px;
+    font-weight: 600;
+    color: #364167;
+    margin: 40px 0px;
+}
+
+.nt-plan-widget ul{
+  margin: 0;
+  padding: 0;
+}
+
+.nt-plan-widget ul li{
+  list-style-type: none;
+  font-size: 16px;
+  font-weight: 400;
+  color: #90a0b4;
+  padding: 8px 0;
+  line-height: 30px;
+}
+
+.nt-plan-widget .nt-plan-button a{
+  text-decoration:none;
+  display: block;
+  margin: 0 auto;
+}
+
+.nt-plan-widget .nt-plan-button input{
+  font-size: 18px;
+  text-transform: uppercase;
+  padding: 12px 70px;
+  margin: 60px auto;
+  border-radius: 5px;
+  background: #6871f4;
+  color: #fff;
+  display: inherit;
+  border: 1px solid #6871f4;  
+}
+
+/* Navthemes Pricing widget Ends */
+
+
+
+/* Navthemes Service widget Starts */
+.nt-service-widget .content,
+.nt-service-widget .nt-image,
+.nt-service-widget .nt-button {
+  width: 100%;
+}
+
+.nt-service-widget img{
+    margin: 0 auto;
+    display: inherit;
+}
+
+.nt-service-widget .nt-button a{
+  margin: 0 auto;
+  display: inherit;
+}
+.nt-service-widget .content{
+  font-size: 16px;
+  line-height: 1.7em;
+  color: #97a6b9;
+  margin-bottom: 30px;
+}
+/* Navthemes Service widget Ends */
+
+
+
+/* Navthemes Team widget Starts */
+
+.nt-team-widget{
+  margin-top: 30px;
+}
+
+.nt-team-widget .content,
+.nt-team-widget .nt-image,
+.nt-team-widget .nt-button {
+  width: 100%;
+}
+
+.nt-team-widget img{
+    margin: 0 auto;
+    display: inherit;
+}
+
+.nt-team-widget .nt-button a{
+  margin: 0 auto;
+  display: inline-block;
+}
+.nt-team-widget .content{
+  font-size: 16px;
+  line-height: 1.7em;
+  color: #97a6b9;
+}
+
+/* Navthemes Team widget Ends */
+
+
+
+/* Navthemes Call Action widget Starts */
+.nt-callaction-widget{
+  width:100%;
+  box-sizing: border-box;
+  padding: 20px;
+} 
+
+.nt-callaction-widget .nt-callaction-body{
+  width: 70%;
+  float: left;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.nt-callaction-widget .nt-callaction-button{
+  width: 30%;
+  float: right;
+}
+.nt-callaction-widget .nt-header{
+    color: #364167;
+    line-height: 30px;
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+.nt-callaction-widget .nt-content{
+    color: #364167;
+    font-size: 16px;
+    padding-top: 20px;
+}
+
+.nt-callaction-widget .nt-callaction-button a{
+  text-decoration:none;
+  display: block;
+  margin: 0 auto;
+}
+
+.nt-callaction-widget .nt-callaction-button input{
+  font-size: 18px;
+  text-transform: uppercase;
+  padding: 12px 35px;
+  margin: 60px auto;
+  border-radius: 5px;
+  background: #6871f4;
+  color: #fff;
+  display: inherit;
+  border: 1px solid #6871f4;  
+}
+
+/* Navthemes Call Action widget Ends */
+
+
+
+/* Navthemes partners widget Starts */
+
+.nt-partners-widget{
+  width:100%;
+  box-sizing: border-box;
+} 
+
+.nt-partners-widget .nt-images{
+  width: 20%;
+  float: right;
+  margin: 0 2.5% 0 2.5%;
+  text-align: center;
+}
+
+/* Navthemes partners widget Ends */
+
+
+
+/* Navthemes Tesimonials widget Starts */
+
+.nt-testimonials-widget{
+  width: 100%;
+  box-sizing: border-box;
+}
+.nt-col{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.nt-testimonials-widget .content,
+.nt-testimonials-widget .nt-image{
+  width: 100%;
+}
+
+.nt-testimonials-widget img{
+    margin: 0 auto;
+    display: inherit;
+}
+
+.nt-testimonials-widget .content{
+  font-size: 16px;
+  line-height: 1.7em;
+  color: #97a6b9;
+  margin-bottom: 30px;
+}
+
+.nt-testimonials-widget .nt-bottom{
+  width: 100%;
+}
+.nt-testimonials-widget .nt-bottom .w30{
+  width: 30%;
+  float: left;
+}
+.nt-testimonials-widget .mt_40{
+  margin-top: 43px;
+}
+
+.nt-testimonials-widget .nt-bottom .w40{
+     margin: 0 auto;
+    text-align: center;
+    width: 40%;
+}
+
+/* Navthemes Tesimonials widget Ends */
+
+
+
+/*Media Query Starts*/
+
+@media only screen and (max-width: 992px) {
+    
+.nt-plan-widget .nt-box-body .nt-body-heading{
+  font-size:20px
+}
+.nt-plan-widget .nt-box-header p{
+  font-size: 16px;
+}
+}
+
+@media only screen and (max-width: 767px) {
+    
+.nt-plan-widget .nt-col,.nt-service-widget .nt-col{
+  width: 100%;
+  float: none;
+  margin: 40px 0 0 0;
+}
+.nt-plan-widget .nt-box-header p{
+    font-size: 18px;
+}
+.nt-plan-widget .nt-box-body .nt-body-heading{
+    font-size: 23px;
+}
+.nt-callaction-widget .nt-callaction-body,
+.nt-callaction-widget .nt-callaction-button{
+  width: 100%;
+}
+.nt-partners-widget .nt-images{
+  width:45%;
+  float: right;
+  margin: 0 2.5% 0 2.5%;
+  text-align: center;
+}
+.nt-testimonials-widget .nt-bottom .w30{
+  width: 100%;
+  float: none;
+}
+.nt-testimonials-widget .mt_40{
+  margin-top: 0px;
+}
+.nt-testimonials-widget .nt-bottom .w40{
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+}
+
+
+@media only screen and (max-width: 600px) {
+    
+.nt-about-widget .float-left,
+.nt-about-widget .float-right{
+  float: none;
+  width: 100%;
+  margin:10px 0px;
+}
+
+.nt-about-widget .symbol{
+  text-align: center;
+}
+}
+

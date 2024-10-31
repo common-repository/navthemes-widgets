@@ -1,0 +1,7 @@
+* Version 1.3
+*******************
+- Images field of About and Partner Section Widget returns ID instead of URL. Hide Image URL field.
+
+* Version 1.0
+*******************
+Initial Version
